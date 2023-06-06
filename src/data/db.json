@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "clients": [
+    {
+      "id": 1,
+      "name": "Paul",
+      "lastName": "Landaeta",
+      "company": "Mojix"
+    },
+    {
+      "id": 2,
+      "name": "Alexis",
+      "lastName": "Marechal",
+      "company": "UPB"
+    },
+    {
+      "id": 67,
+      "name": "adro",
+      "lastName": "Rodriguez",
+      "company": "Mojix"
+    },
+    {
+      "id": 3,
+      "name": "adro",
+      "lastName": "Rodriguez",
+      "company": "Mojix"
+    },
+    {
+      "id": "4",
+      "name": "adro",
+      "lastName": "Rodriguez",
+      "company": "Mojix"
+    },
+    {
+      "id": "5",
+      "name": "adro",
+      "lastName": "Rodriguez",
+      "company": "Mojix"
+    },
+    {
+      "id": "Richy",
+      "name": "adro",
+      "lastName": "Rodriguez",
+      "company": "Mojix"
+    },
+    {
+      "id": "Pablo",
+      "name": "adro",
+      "lastName": "Rodriguez",
+      "company": "Mojix"
+    },
+    {
+      "name": "richy",
+      "company": "upb",
+      "id": 68
+    },
+    {
+      "name": "richy",
+      "company": "upb",
+      "id": 69
+    },
+    {
+      "name": "gabo",
+      "lastName": "neme",
+      "company": "upb",
+      "id": 70
+    },
+    {
+      "id": "c77f15cb-d07f-469f-b5f4-e4aca58b71b9",
+      "name": "mike ",
+      "lastName": "molina",
+      "company": "upb"
+    },
+    {
+      "id": "9883771b-a23f-4bcf-a8b3-c1e7c6ddf503",
+      "name": "pablo",
+      "lastName": "badani",
+      "company": "doña chela"
+    }
+  ]
+}
